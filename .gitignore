@@ -1,0 +1,8 @@
+﻿*.key
+*.pem
+*.p12
+pki/
+ca.crt
+*.log
+.DS_Store
+Thumbs.db
